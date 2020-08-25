@@ -6,4 +6,5 @@ This is Hao Zheng(郑浩).
 - 🌱 I’m currently learning Multi-modal Learning.
 - ⚡ Fun: [Microsoft Flight Simulator](https://www.xbox.com/en-US/games/microsoft-flight-simulator), [DOTA2](www.dota2.com)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zh-plus&show_icons=true&theme=vue)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zh-plus&show_icons=true&theme=vue&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zh-plus&layout=compact)
