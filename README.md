@@ -2,6 +2,7 @@
 
 This is Hao Zheng(郑浩).
 
+- 🏫 I've graduated from SUSTech with a bachelor's degree in Computer Science!
 - 🔭 I’m currently working on CS department @SUSTech as Research Assistant. 
 - 🌱 I’m currently learning Multi-modal Retrieval.
 - ⚡ Fun: [Microsoft Flight Simulator](https://www.xbox.com/en-US/games/microsoft-flight-simulator), [DOTA2](www.dota2.com)
