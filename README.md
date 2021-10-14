@@ -10,4 +10,4 @@ This is Hao Zheng(郑浩).
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zh-plus&show_icons=true&theme=vue&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zh-plus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?zh-plus&color=blue)
+![](https://komarev.com/ghpvc/?username=zh-plus&color=green)
